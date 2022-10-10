@@ -8,7 +8,7 @@ export const Blogs = [
         tags:["React.js","express", "MongoDB","Node.js"],
         imgSrc:"",
         link:"https://pricingcalculatorapp.herokuapp.com/",
-        github:""
+        github:"https://github.com/charlotte54/pricingcalculator"
     },
     {
         id:2,
