@@ -14,8 +14,8 @@ export const Blogs = [
         id:2,
         name:"Solidity Web3 App",
         tags:["solidity", "web3", "blockchain", "React.js"],
-        imgSrc:"https://i.imgur.com/QyCm46H.jpeg",
-        link:"https://waveportal.charlotte31.repl.co/",
+        imgSrc:"",
+        link:"",
         github:""
     },
     {
