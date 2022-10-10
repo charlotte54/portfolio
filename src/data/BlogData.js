@@ -6,7 +6,7 @@ export const Blogs = [
         id:1,
         name:"MERN E-Commerce Website",
         tags:["React.js","express", "MongoDB","Node.js"],
-        imgSrc:"",
+        imgSrc:"https://i.imgur.com/y3WMiE1.jpeg",
         link:"https://pricingcalculatorapp.herokuapp.com/",
         github:"https://github.com/charlotte54/pricingcalculator"
     },
