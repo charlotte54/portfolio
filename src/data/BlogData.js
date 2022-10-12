@@ -22,9 +22,9 @@ export const Blogs = [
         id:3,
         name:"Solana Web3 App",
         tags:["Solana", "web3", "blockchain","Rust", "React"],
-        imgSrc:"",
+        imgSrc:"https://i.imgur.com/AMFKQBP.png",
         link:"https://gif-portal.charlotte31.repl.co/",
-        github:""
+        github:"https://github.com/charlotte54/gif-portal"
     },
     {
         id:4,
