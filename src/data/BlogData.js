@@ -14,9 +14,9 @@ export const Blogs = [
         id:2,
         name:"Solidity Web3 App",
         tags:["solidity", "web3", "blockchain", "React.js"],
-        imgSrc:"",
-        link:"",
-        github:""
+        imgSrc:"https://i.imgur.com/QxLZ2oo.jpeg",
+        link:"https://waveportal.charlotte31.repl.co/",
+        github:"https://github.com/charlotte54/waveportal"
     },
     {
         id:3,
@@ -30,7 +30,7 @@ export const Blogs = [
         id:4,
         name:"React Portfolio Website",
         tags:["React.js","styled-components", "Netlify"],
-        imgSrc:"",
+        imgSrc:"https://i.imgur.com/YMtwsI5.jpeg",
         link:"/",
         github:"https://github.com/charlotte54/portfolio"
     },
